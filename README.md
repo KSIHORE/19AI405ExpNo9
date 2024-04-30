@@ -140,5 +140,7 @@ It is assumed that there will always be a safe path that the agent can take to e
 
 ![image](https://github.com/KSIHORE/19AI405ExpNo9/assets/151484879/56b6813e-dc10-46ef-b96e-1b7ff2a338af)
 
+<h1> RESULT:</h1>
+Hence To solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic is done using python.
 
 
